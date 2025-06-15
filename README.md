@@ -18,9 +18,9 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 [![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,debian,nim,kali,mysql,linux,aws,go,perl,raspberrypi,vala,linux,js,lua,gcp,apple,md,obsidian,powershell,py,rust,vim,visualstudio,vscode,postman,ruby,crystal,windows)](https://skillicons.dev)
 
 
+## Socials
 
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+3306;listening+on+%5Bany%5D+3306+...;connect+to+%5Bibrahimsql%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;ibrahimsql%40fbi.gov%3A~%24+./order66;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahmsql)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@İbrahimsql)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ibrahimsql)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ibrahmsql)
