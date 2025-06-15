@@ -11,6 +11,7 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 * ⚡  I don't like Try Hack Me CTFs
 
 ![ibrahimsql's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahmsql&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 ![yiğit ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahmsql&show_icons=true&theme=radical)
 
 
