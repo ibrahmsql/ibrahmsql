@@ -21,6 +21,6 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 ## Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahmsql)
-[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@İbrahimsql)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimsql)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ibrahimsql)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ibrahmsql)
