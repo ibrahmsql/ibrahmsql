@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahmsql)](https://github.com/anuraghazr/github-readme-stats)
 
-![yiğit ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahmql&show_icons=true&theme=radical)
+![yiğit ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahmsql&show_icons=true&theme=radical)
