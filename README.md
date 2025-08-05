@@ -13,7 +13,7 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 ![yiğit ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahmsql&show_icons=true&theme=radical)
 
 
-[![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,debian,nim,kali,mysql,linux,aws,go,perl,raspberrypi,vala,linux,js,lua,gcp,apple,md,obsidian,powershell,py,rust,vim,visualstudio,vscode,postman,ruby,crystal,windows,asm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,debian,nim,kali,mysql,linux,aws,go,perl,aws,docker,graphql,redhat,zig,raspberrypi,vala,linux,js,lua,gcp,apple,md,obsidian,powershell,py,rust,vim,visualstudio,vscode,postman,ruby,crystal,windows,asm)](https://skillicons.dev)
 
 
 ## Socials
