@@ -9,7 +9,7 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 * 🧠  I'm learning Ziglang
 * 🤝  I'm open to collaborating on I'm open to collaborating on penetration testing projects, Red Team operations, exploit development, open-source security tools, and CTF challenges. Let's connect and create something impactful together!
 * ⚡  I don't like Try Hack Me CTFs
-* 🌐 My Web site https://ibrahimsql.com  
+* 🌐 My Website https://ibrahimsql.com  
 
 ![yiğit ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahmsql&show_icons=true&theme=radical)
 
@@ -22,6 +22,7 @@ Cyber Security Engineer & Pentester & Ethical Hacker
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahmsql)
 [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimsql)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ibrahimsql)
+[![🌐] (Website) ](https://ibrahimsql.com/about)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ibrahmsql)
 
 
